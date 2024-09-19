@@ -4,8 +4,7 @@
 
 * You don't gotta credit me for this if you use it but it'd be nice if you did :)
 
-[in-game screenshot](https://raw.githubusercontent.com/yophlox/Custom-Char-Template/main/images/screenShots/image.png)
-![in-game screenshot](https://raw.githubusercontent.com/yophlox/Custom-Char-Template/main/images/screenShots/image.png "Funky")
+![in-game screenshot](https://raw.githubusercontent.com/yophlox/Custom-Char-Template/main/images/screenShots/image.png "Funky!!")
 
 # How to make cool swaggy custom char
 
