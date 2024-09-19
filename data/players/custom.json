@@ -4,9 +4,9 @@
   "ownedChars": ["bf"],
   "showUnownedChars": true,
   "unlocked": true,
-  "freeplayStyle": "bf",
+  "freeplayStyle": "custom",
   "freeplayDJ": {
-    "assetPath": "freeplay/freeplay-bf",
+    "assetPath": "freeplay/freeplay-boyfriend",
     "cartoon": {
       "soundClickFrame": 80,
       "soundCartoonFrame": 85,
