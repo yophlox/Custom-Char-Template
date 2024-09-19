@@ -4,6 +4,8 @@
 
 * You don't gotta credit me for this if you use it but it'd be nice if you did :)
 
+[in-game screenshot](https://raw.githubusercontent.com/yophlox/Custom-Char-Template/main/images/screenShots/image.png)
+
 # How to make cool swaggy custom char
 
 * go into data/players and rename custom.json (or copy and paste it) and edit it to your hearts content (not gonna go through what everything means)
