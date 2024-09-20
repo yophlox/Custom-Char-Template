@@ -4,7 +4,7 @@
   "ownedChars": ["bf"],
   "showUnownedChars": true,
   "unlocked": true,
-  "freeplayStyle": "custom",
+  "freeplayStyle": "pico",
   "freeplayDJ": {
     "assetPath": "freeplay/freeplay-boyfriend",
     "cartoon": {
