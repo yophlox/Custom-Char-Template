@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
   "name": "Custom",
-  "ownedChars": ["bf"],
+  "ownedChars": [
+    "gf"
+  ],
   "showUnownedChars": true,
   "unlocked": true,
   "freeplayStyle": "pico",
