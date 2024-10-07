@@ -4,7 +4,7 @@
   "ownedChars": [
     "gf"
   ],
-  "showUnownedChars": true,
+  "showUnownedChars": false,
   "unlocked": true,
   "freeplayStyle": "pico",
   "freeplayDJ": {
